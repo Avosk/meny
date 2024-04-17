@@ -1,19 +1,104 @@
-h1
-{
+h1{
     color: green;
+    text-align:center;
 }
-td
-{
-    font-weight: 700;
+h1 img{
+    width:300px;
+    text-align:center;
 }
-th
-{
-    font-style: italic;
+td{font-weight: 700;}
+th{font-style: italic;
+font-weight: 400;}
+.mg{
     font-weight: 400;
-}
-.mg
-{
-    font-weight: 400;
-    
-}
 
+}
+.blok1
+{padding: 5px;
+    padding-right: 20px; 
+    float: left;}
+.blok2 {
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    top: 60px;
+    left: 70px;
+    position: relative;
+}
+.blok3 {
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    top: 450px;
+    position: absolute;
+}
+.blok4 {
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    top: 260px;
+    left: 400px;
+    position: absolute;
+}
+.blok5 {
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    top: 670px;
+    position: absolute;
+}
+.blok6 {
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    top: 720px;
+    left: 400px;
+    position: absolute;
+}
+.blok7 {
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    left:800px;
+    position:absolute;
+}
+.blok8 {
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    top: 60px;
+    left:1100px;
+    position:absolute;
+}
+.blok9 {
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    left:750px;	
+    top: 450px;
+    position: absolute;
+}
+.blok10 {
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    top: 260px;
+    left: 1100px;
+    position: absolute;
+}
+.blok11 {
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    top: 670px;
+    left:750px;
+    position: absolute;
+}
+.blok12 {
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    top: 720px;
+    left: 1100px;
+    position: absolute;
+}
